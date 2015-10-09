@@ -1,0 +1,10 @@
+D:\konyol\SMT3\PEMROG. GUI\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+D:\konyol\SMT3\PEMROG. GUI\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\konyol\SMT3\PEMROG. GUI\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\konyol\SMT3\PEMROG. GUI\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\konyol\SMT3\PEMROG. GUI\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+D:\konyol\SMT3\PEMROG. GUI\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\konyol\SMT3\PEMROG. GUI\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+D:\konyol\SMT3\PEMROG. GUI\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\konyol\SMT3\PEMROG. GUI\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+D:\konyol\SMT3\PEMROG. GUI\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
